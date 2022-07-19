@@ -11,7 +11,7 @@ Dark
 Beatiful GUI with Custom Widgets theme engine
 ![Screenshot_20220630_031607.png](https://www.dropbox.com/s/688z81sm7vsh9m5/Screenshot_20220630_031607.png?dl=0&raw=1)
 
-[Continue Reading](https://khamisikibet.github.io/QSettings-And-App-Session/docs/QSettings_ Saving and managing app sessions and other settings.html)
+[Continue Reading](https://khamisikibet.github.io/QSettings-And-App-Session/docs/QSettings-Saving-and-managing-app-sessions-and-other-settings.html)
 
 
 
